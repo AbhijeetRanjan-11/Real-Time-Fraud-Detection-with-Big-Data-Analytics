@@ -8,16 +8,16 @@ Our approach integrates traditional methods, modern machine learning algorithms,
 
 🔑 Key Features
 
-✅ Real-time fraud detection system using scalable architecture
-✅ Machine Learning algorithms optimized for imbalanced datasets
-✅ Integration of advanced models: Random Forest, XGBoost, Neural Networks
-✅ Feature engineering with PCA and anomaly detection
-✅ Class balancing using SMOTE and hybrid sampling
-✅ Real-time stream processing integration (Apache Kafka-ready)
-✅ Continuous learning & model adaptability to new fraud patterns
-✅ Evaluation metrics: Precision, Recall, F1-Score, AUC-ROC
-✅ Comprehensive documentation and model explainability
-✅ Designed for large-scale transaction volumes in financial systems
+✅ Real-time fraud detection system using scalable architecture.
+✅ Machine Learning algorithms optimized for imbalanced datasets.
+✅ Integration of advanced models: Random Forest, XGBoost, Neural Networks.
+✅ Feature engineering with PCA and anomaly detection.
+✅ Class balancing using SMOTE and hybrid sampling.
+✅ Real-time stream processing integration (Apache Kafka-ready).
+✅ Continuous learning & model adaptability to new fraud patterns.
+✅ Evaluation metrics: Precision, Recall, F1-Score, AUC-ROC.
+✅ Comprehensive documentation and model explainability.
+✅ Designed for large-scale transaction volumes in financial systems.
 
 🛠️ Technologies & Tools
 

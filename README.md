@@ -5,6 +5,7 @@
 This project presents a robust, machine learning-driven credit card fraud detection system designed to operate in real-time, leveraging scalable big data analytics. The system addresses the growing threat of credit card fraud, which causes billions in global financial losses annually.
 
 Our approach integrates traditional methods, modern machine learning algorithms, and real-time data processing techniques to effectively identify and mitigate fraudulent transactions while maintaining minimal false positives, ensuring both security and user convenience.
+
 🔑 Key Features
 
 ✅ Real-time fraud detection system using scalable architecture
@@ -17,6 +18,7 @@ Our approach integrates traditional methods, modern machine learning algorithms,
 ✅ Evaluation metrics: Precision, Recall, F1-Score, AUC-ROC
 ✅ Comprehensive documentation and model explainability
 ✅ Designed for large-scale transaction volumes in financial systems
+
 🛠️ Technologies & Tools
 
     Programming: Python, Scikit-learn, TensorFlow/Keras

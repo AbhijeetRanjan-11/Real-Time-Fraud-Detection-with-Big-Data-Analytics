@@ -141,3 +141,58 @@ Project developed as part of Bachelor's in Computer Science at Chandigarh Univer
     Scikit-learn, XGBoost, TensorFlow official documentation
 
     Academic resources on SMOTE, PCA, and anomaly detection
+
+    🔮 Future Work
+
+While the current system demonstrates promising results in detecting fraudulent transactions with high accuracy and low false positives, several areas remain for further development and enhancement:
+1. Advanced Deep Learning Integration
+
+    Implement LSTM (Long Short-Term Memory) and Recurrent Neural Networks (RNNs) to capture sequential transaction patterns over time.
+
+    Explore Autoencoders for unsupervised anomaly detection in complex fraud scenarios.
+
+2. Real-Time Production Deployment
+
+    Integrate with real-time stream processing frameworks such as Apache Kafka or Apache Flink for instant fraud detection on live transaction data.
+
+    Optimize system for low-latency, high-throughput environments typical in financial institutions.
+
+3. Scalability and Big Data Handling
+
+    Extend the system for large-scale deployment using distributed platforms like Apache Spark or Hadoop.
+
+    Evaluate performance under massive transaction loads to ensure system robustness and scalability.
+
+4. Explainable AI (XAI)
+
+    Incorporate explainability techniques (e.g., SHAP, LIME) to provide transparent decision-making processes for fraud predictions.
+
+    Enhance trust among stakeholders by visualizing feature contributions to fraud detection.
+
+5. Continuous Learning & Adaptation
+
+    Establish automated feedback loops to retrain models with new fraud patterns and evolving data distributions.
+
+    Implement online learning algorithms to allow models to update in real-time as new data arrives.
+
+6. Enhanced Fraud Pattern Discovery
+
+    Utilize advanced graph-based models or network analysis to detect organized fraud rings and hidden relationships between fraudulent activities.
+
+7. Broader Transaction Coverage
+
+    Extend detection capabilities beyond credit card transactions to include mobile payments, e-wallets, and cross-border financial transactions.
+
+    Design multi-channel fraud detection mechanisms for holistic financial security.
+
+8. Improved Imbalanced Data Handling
+
+    Explore novel resampling techniques beyond SMOTE, such as ADASYN, Cluster-Based Oversampling, and cost-sensitive learning approaches for highly skewed datasets.
+
+9. Regulatory Compliance and Data Privacy
+
+    Ensure system aligns with global standards like GDPR, PCI-DSS, and other data privacy regulations.
+
+    Enhance data anonymization techniques while preserving analytical integrity.
+
+

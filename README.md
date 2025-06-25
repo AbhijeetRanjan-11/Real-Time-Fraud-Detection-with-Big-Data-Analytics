@@ -106,12 +106,8 @@ Our approach integrates traditional methods, modern machine learning algorithms,
     Ensure model transparency through Explainable AI (XAI) approaches
 
 ⚡ Performance Highlights
-Model	Precision	Recall	F1-Score	AUC-ROC
-Logistic Regression	0.82	0.69	0.75	0.88
-SVM	0.85	0.71	0.77	0.89
-Random Forest	0.92	0.81	0.86	0.94
-XGBoost	0.91	0.84	0.87	0.95
-Neural Network	0.89	0.78	0.83	0.92
+![Screenshot 2025-06-25 at 11-38-59 Real-Time Fraud Detection README](https://github.com/user-attachments/assets/4015716d-123d-48d6-b7ff-cd429b662d6b)
+
 🗃️ Folder Structure Example
 
 ├── data/                  # Dataset and processed data
